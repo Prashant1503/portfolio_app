@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <title>Fetching Data</title>
+    
+    <h2>Fetch Api</h2>
+    <body>
+        <div>
+            <button onclick="getData();">Click</button>
+            <table id="myTableData"  border="1px" cellpadding="10"   >
+                <tr>
+                    <th><b>User Id</b></th>
+                    <th><b>Id</b></th>
+                    <th><b>Title</b></th>
+                    <th><b>Completed</b></th>
+                </tr>
+            </table>
+        </div>
+    </body>
+
+    <!-- script tag -->
+    <script>
+
+        // function to get data.
+        function getData()  {
+
+            // calling api
+            fetch('https://jsonplaceholder.typicode.com/todos')
+                .then(res => {
+                    
+                    console.log(res);
+                    // promise object
+                    var data = res.json();
+
+                    // getting array of objects
+                    data.then((result) => {
+                        
+                        // getting key-value pair
+                        result.map((value,index) => {
+                            
+                            var table = docu6ment.getElementById("myTableData");
+                            var rowCount = table.rows.length;
+                            var row = table.insertRow(rowCount);
+
+                            // inserting dynamic data into table
+                            row.insertCell(0).innerHTML = value.userId;
+                            row.insertCell(1).innerHTML = value.id;
+                            row.insertCell(2).innerHTML = value.title;
+                            row.insertCell(3).innerHTML = value.completed;
+                            
+                            
+
+                        })
+                    })
+                    .catch(err => {
+                        console.log(err);
+                    })
+                })
+                .catch(err => {console.log(err)})
+        }
+
+    </script>
+</html>

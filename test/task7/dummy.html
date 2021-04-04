@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- <style>
+        .formBox{
+            padding: 0.5rem 2rem;
+        }
+    </style> -->
+</head>
+<body>
+    <form>
+        <div class="formBox">
+            <label for="fname">FirstName</label>
+            <input type="text" id="fname" placeholder="FirstName" oninput="input()"/>
+            <p id="name_error" style="color:red"></p>
+        </div>
+        <div class="formBox">
+            <label for="lname">LastName</label>
+            <input type="text" id="lname" placeholder="LastName" oninput=" input()"/>
+            <p id="last_error" style="color:red"></p>
+        </div>
+        <div class="formBox">
+            <label for="text">Age</label>
+            <input type="number" id="age" placeholder="age" oninput="input()"/>
+            <p id="age_error" style="color:red"></p>
+        </div>
+        <div class="formBox">
+            <button id="btnClick">Click to Add</button>
+            <button id="btn">edit</button>
+        </div>
+        <div id="msg">
+            <pre></pre>
+        </div>
+    </form>
+    <script>
+        let details = [];
+        const input=(ev)=>{
+            var alphaExp= /^[a-zA-Z]+(?:-[a-zA-Z]+)*$/;
+            // var alpha= /^[a-zA-Z]+(?:-[a-zA-Z]+)*$/;
+            
+            if(fname==""){
+               return  document.getElementById("name_error").innerHTML="name be must field";
+            }
+            if(!alphaExp.test(fname)){
+               return document.getElementById("name_error").innerHTML="only alphabets allow";
+            }
+            if(!lname==""){
+               return document.getElementById("last_error").innerHTML="lastname be must field";
+            }
+            if(alphaExp.test(lname)){
+               return document.getElementById("last_error").innerHTML="only alphabets allow";
+            }
+            if(!age==""){
+               return document.getElementById("age_error").innerHTML="age be must field";
+            }
+        }
+        const adddeta = (ev)=>{
+            ev.preventDefault(); //to stop the form submitting
+            let deta = {
+                FirstName:document.getElementById('fname').value,
+                lastName: document.getElementById('lname').value,
+                Age: document.getElementById('age').value
+            }
+            details.push(deta);
+            document.forms[0].reset(); // to clear the form for the next entries
+            //document.querySelector('form').reset();
+            //for display purposes only
+            console.warn('added' , {details} );
+            let pre = document.querySelector('#msg pre');
+            pre.textContent = '\n' + JSON.stringify(details, '\t', 2);
+            //saving to localStorage
+            localStorage.setItem('MyDetils', JSON.stringify(details) );
+        }
+        document.addEventListener('DOMContentLoaded', ()=>{
+            document.getElementById('btnClick').addEventListener('click', adddeta);
+        });
+    </script>
+</body>
+</html>

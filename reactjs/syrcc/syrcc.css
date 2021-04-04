@@ -1,0 +1,56 @@
+.container {
+  background-color: blanchedalmond;
+  color: white;
+}
+
+.top-navbar {
+  background-color: purple;
+  color: whitesmoke;
+  padding: 7px;
+}
+
+.navbar,
+li {
+  display: flex;
+  align-items: center;
+  justify-content: stretch;
+  margin-right: 3px;
+}
+
+.button {
+  padding: 10px;
+  background-color: red;
+  border-radius: 6px;
+  border-color: red;
+  color: white;
+}
+
+.footer {
+  background-color: white;
+  align-items: baseline;
+}
+
+.image {
+  shape-outside: margin-box;
+  height: 30px;
+  width: 30px;
+  border-radius: 6px;
+  padding: 2px;
+  margin-top: 100px;
+}
+
+#input {
+  padding: 10px;
+  border-color: black;
+  border-radius: 6px;
+}
+
+span {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.navbar-end {
+  display: flex;
+  justify-content: flex-end;
+}

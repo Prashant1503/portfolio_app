@@ -1,0 +1,16 @@
+.container {
+  background-color: bisque;
+  margin: auto;
+  box-sizing: 0, 2;
+}
+
+.card {
+  height: 300px;
+  width: 300px;
+}
+
+#input {
+  padding: 4px;
+  border-radius: 6px;
+  border-color: darkgray;
+}

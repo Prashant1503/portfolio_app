@@ -1,0 +1,25 @@
+.rootContainer {
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10pt;
+  max-width: 500px;
+  background-color: ghostwhite;
+  margin: 0 auto;
+}
+
+input {
+  width: 100%;
+  padding: 6px;
+}
+
+button {
+  padding: 6px;
+  background-color: ghostwhite;
+  margin-top: 10px;
+  border-radius: 1px;
+  border-color: white;
+}
+
+h1 {
+  text-align: center;
+}

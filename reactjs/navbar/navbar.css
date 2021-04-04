@@ -1,0 +1,51 @@
+/* .container {
+  color: blue;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navItems {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+
+.navBar {
+  padding: 10px;
+} */
+/* 
+.blue {
+  background-color: blue;
+  padding: 10px;
+}
+
+.yellow {
+  background-color: yellow;
+  padding: 10px;
+} */
+
+.mainDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+.logo-container {
+  height: 40px;
+  background-color: aliceblue;
+}
+.navbar-items {
+  color: red;
+}
+
+.side-bar {
+  background-color: aliceblue;
+}
+
+.sidebar-items {
+  padding: 10px;
+  color: blue;
+}

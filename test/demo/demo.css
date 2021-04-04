@@ -1,0 +1,12 @@
+.heading {
+  color: red;
+}
+
+.container {
+  background-color: green;
+}
+
+.messageContainer {
+  border-radius: 10px;
+  background-color: honeydew;
+}

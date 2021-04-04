@@ -1,0 +1,1199 @@
+{
+    "documentList ":[
+       {
+          "uploadedBy ":" ",
+          "documentCategory ":" ",
+          "documentType ":"Gift Documentation ",
+          "source ":"Internal ",
+          "folder ":" ",
+          "donorSUID ":"(0215789068, 0215781578) ",
+          "modificationDate ":"1549039688689 ",
+          "creationDate ":"1549039685097 ",
+          "initialAuthor ":"myname@example.com ",
+          "updateAuthor ":"myname@example.com ",
+          "id ":"RGqSeX36yJDnv7P3n7 ",
+          "classId ":"R9PQOA1wGTNdACPMbn ",
+          "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+          "domainName ":"example.com ",
+          "title ":"Transfer of funds by Non    Profit.pdf ",
+          "size ":"133944 ",
+          "iconLink ":"",
+          "name ":"Transfer of funds by Non    Profit.pdf ",
+          "link ":""
+       },
+       {
+          "uploadedBy ":" ",
+          "documentCategory ":" ",
+          "documentType ":" Statements,Gift Documentation,Planned Giving ",
+          "source ":"Third Party ",
+          "folder ":" ",
+          "donorSUID ":"(0215789068, 0215781545, 0215786247, 0216195711, 0030248033, 0215781578) ",
+          "modificationDate ":"1548965993502 ",
+          "creationDate ":"1548965988976 ",
+          "initialAuthor ":"myname@example.com ",
+          "updateAuthor ":"myname@example.com ",
+          "id ":"RGlTRzV810kFRWtdIM ",
+          "classId ":"R9PQOA1wGTNdACPMbn ",
+          "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+          "domainName ":"example.com ",
+          "title ":"AODOCS_Test1.txt ",
+          "size ":"16 ",
+          "iconLink ":" ",
+          "name ":"AODOCS_Test1.txt ",
+          "link ":" "
+       },
+       {
+          "uploadedBy ":"amar2 ",
+          "documentCategory ":"Gift ",
+          "documentType ":"Gift Documentation ",
+          "source ":"Internal ",
+          "folder ":"Gift ",
+          "donorSUID ":"0215781321 ",
+          "modificationDate ":"1548265269572 ",
+          "creationDate ":"1548112407965 ",
+          "initialAuthor ":"jvallejo@example.com ",
+          "updateAuthor ":"amar2@example.com ",
+          "id ":"RFphwAC1JkSEXL41zr ",
+          "classId ":"R9PQOA1wGTNdACPMbn ",
+          "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+          "domainName ":"example.com ",
+          "title ":"BGU_TEMPLATE.csv ",
+          "size ":"6297 ",
+          "iconLink ":" ",
+          "name ":"BGU_TEMPLATE.csv ",
+          "link ":" "
+       }
+    ],
+    "filesCount ":3,
+    "precision ":"ACCURATE ",
+    "count ":3,
+    "documents ":[
+       {                
+          "attachments ":[
+             {
+                "size ":"133944 ",
+                "iconLink ":" ",
+                "link ":" ",
+                "mimeType ":"application/pdf ",
+                "name ":"Transfer of funds by Non    Profit.pdf ",
+                "fileId ":"1bnviIgmk8HywSdJYUnlAZZjm6D_5Ri5T ",
+                "kind ":"aodocs#attachment "
+             }
+          ],
+          "categories ":[
+             {
+                "definitionName ":"Folder ",
+                "levelNames ":[
+                   "Folder "
+                ],
+                "folder ":true,
+                "dynamicValues ":false,
+                "categoryDefinition ":{
+                   "value ":"FOLDER_CATEGORY ",
+                   "levelNames ":[
+                      "Folder "
+                   ],
+                   "tags ":false,
+                   "folder ":true,
+                   "dynamicValues ":false,
+                   "name ":"Folder ",
+                   "id ":"FOLDER_CATEGORY ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"FOLDER_CATEGORY ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":1,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Folder ",
+                "fieldName ":"Folder ",
+                "fieldId ":"R9PQODu0Mq75svlvnm "
+             },
+             {
+                "definitionName ":"Source ",
+                "levelNames ":[
+                   "Source "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"aR9PQOmyvuXpyeAF3PB ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":"Internal ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Internal ",
+                         "name ":"Internal ",
+                         "id ":"aR9PQOmyvuXpyeAF3PB ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"aR9PQOkGx3z0jvHcBpk ",
+                   "levelNames_i18n ":[
+                      "Source "
+                   ],
+                   "levelNames ":[
+                      "Source "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Source ",
+                   "id ":"aR9PQOkGx3z0jvHcBpk ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQOkGx3z0jvHcBpk ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":2,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Source ",
+                "fieldName ":"Source ",
+                "fieldId ":"R9PQOGDvA23mbS5e2Y "
+             },
+             {
+                "definitionName ":"Document Category ",
+                "levelNames ":[
+                   "Document Category "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "categoryDefinition ":{
+                   "value ":"aR9PQOgyxbVTiMaJML0 ",
+                   "levelNames_i18n ":[
+                      "Document Category "
+                   ],
+                   "levelNames ":[
+                      "Document Category "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Document Category ",
+                   "id ":"aR9PQOgyxbVTiMaJML0 ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQOgyxbVTiMaJML0 ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":3,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Category ",
+                "fieldName ":"Document Category ",
+                "fieldId ":"R9PQOJvyFooD9y9R23 "
+             },
+             {
+                "definitionName ":"Document Type ",
+                "levelNames ":[
+                   "Document Type ",
+                   "Document Sub-Type "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"RAnr8qH1CqjiPcNWuO ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":"Gift Documentation ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Gift Documentation ",
+                         "name ":"Gift Documentation ",
+                         "id ":"RAnr8qH1CqjiPcNWuO ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"aR9PQNah9TzykH16CLF ",
+                   "levelNames_i18n ":[
+                      "Document Type ",
+                      "Document Sub-Type "
+                   ],
+                   "levelNames ":[
+                      "Document Type ",
+                      "Document Sub-Type "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Document Type ",
+                   "id ":"aR9PQNah9TzykH16CLF ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQNah9TzykH16CLF ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":4,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Type ",
+                "fieldName ":"Document Type ",
+                "fieldId ":"R9PQONG1wV06QXxFIq "
+             },           
+             {"definitionName ":"Document Tags ",
+                "levelNames ":[
+                   "Document Tags "
+                ],
+                "folder ":false,
+                "dynamicValues ":true,
+                "categoryDefinition ":{
+                   "value ":"aR9PQNWB0s70lRWNCMg ",
+                   "levelNames_i18n ":[
+                      "Document Tags "
+                   ],
+                   "levelNames ":[
+                      "Document Tags "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":true,
+                   "name ":"Document Tags ",
+                   "id ":"aR9PQNWB0s70lRWNCMg ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQNWB0s70lRWNCMg ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":7,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Tags ",
+                "fieldName ":"Document Tags ",
+                "fieldId ":"R9PQObAyW14fiXekpw "
+             }
+          ],
+          "fields ":[
+             {
+                "values ":[
+                   "(0215789068, 0215781578) "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":5,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"STRING ",
+                "fieldName_i18n ":"Donor SUID ",
+                "fieldName ":"Donor SUID ",
+                "fieldId ":"R9PQOStt7RSgiYRLUd "
+             },
+             {
+                "values ":[
+                   "1549008000000 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":6,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"DATE ",
+                "fieldName_i18n ":"Document Date ",
+                "fieldName ":"Document Date ",
+                "fieldId ":"R9PQOVFAioWNaYzL8t "
+             },
+             {
+                "values ":[
+                   "Test Upload... "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":8,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"TEXT ",
+                "fieldName_i18n ":"Comments ",
+                "fieldName ":"Comments ",
+                "fieldId ":"R9PQPjl0iKeAG2J9Nc "
+             },
+             {
+                "values ":[
+                   "false "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":15,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"BOOLEAN ",
+                "fieldName_i18n ":"PHI Flag ",
+                "fieldName ":"PHI Flag ",
+                "fieldId ":"RFWDmw0000000jKpKG "
+             },
+             {
+                "values ":[
+                   "false "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":16,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"BOOLEAN ",
+                "fieldName_i18n ":"Confidential Flag ",
+                "fieldName ":"Confidential Flag ",
+                "fieldId ":"RFWDout000001GEP55 "
+             }
+          ]
+       },
+       {         
+          "attachments ":[
+             {
+                "size ":"16 ",
+                "iconLink ":"",
+                "link ":"",
+                "mimeType ":"text/plain ",
+                "name ":"AODOCS_Test1.txt ",
+                "fileId ":"1l45meYCF3wim3n_D4KpnhJW3jcUPgmEl ",
+                "kind ":"aodocs#attachment "
+             }
+          ],
+          "categories ":[
+             {
+                "definitionName ":"Folder ",
+                "levelNames ":[
+                   "Folder "
+                ],
+                "folder ":true,
+                "dynamicValues ":false,
+                "categoryDefinition ":{
+                   "value ":"FOLDER_CATEGORY ",
+                   "levelNames ":[
+                      "Folder "
+                   ],
+                   "tags ":false,
+                   "folder ":true,
+                   "dynamicValues ":false,
+                   "name ":"Folder ",
+                   "id ":"FOLDER_CATEGORY ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"FOLDER_CATEGORY ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":1,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Folder ",
+                "fieldName ":"Folder ",
+                "fieldId ":"R9PQODu0Mq75svlvnm "
+             },
+             {
+                "definitionName ":"Source ",
+                "levelNames ":[
+                   "Source "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"aR9PQOmyzkT4POt5XyP ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":"Third Party ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Third Party ",
+                         "name ":"Third Party ",
+                         "id ":"aR9PQOmyzkT4POt5XyP ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"aR9PQOkGx3z0jvHcBpk ",
+                   "levelNames_i18n ":[
+                      "Source "
+                   ],
+                   "levelNames ":[
+                      "Source "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Source ",
+                   "id ":"aR9PQOkGx3z0jvHcBpk ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQOkGx3z0jvHcBpk ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":2,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Source ",
+                "fieldName ":"Source ",
+                "fieldId ":"R9PQOGDvA23mbS5e2Y "
+             },
+             {
+                "definitionName ":"Document Category ",
+                "levelNames ":[
+                   "Document Category "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "categoryDefinition ":{
+                   "value ":"aR9PQOgyxbVTiMaJML0 ",
+                   "levelNames_i18n ":[
+                      "Document Category "
+                   ],
+                   "levelNames ":[
+                      "Document Category "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Document Category ",
+                   "id ":"aR9PQOgyxbVTiMaJML0 ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQOgyxbVTiMaJML0 ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":3,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Category ",
+                "fieldName ":"Document Category ",
+                "fieldId ":"R9PQOJvyFooD9y9R23 "
+             },
+             {
+                "definitionName ":"Document Type ",
+                "levelNames ":[
+                   "Document Type ",
+                   "Document Sub-Type "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"R9as4hJ000000rgwOg ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":" Statements ",
+                         "parentId ":"0 ",
+                         "name_i18n ":" Statements ",
+                         "name ":" Statements ",
+                         "id ":"R9as4hJ000000rgwOg ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ],
+                   [
+                      {
+                         "value ":"RAnr8qH1CqjiPcNWuO ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":"Gift Documentation ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Gift Documentation ",
+                         "name ":"Gift Documentation ",
+                         "id ":"RAnr8qH1CqjiPcNWuO ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ],
+                   [
+                      {
+                         "value ":"aR9PQNc4zsBHkcMkizZ ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":"Planned Giving ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Planned Giving ",
+                         "name ":"Planned Giving ",
+                         "id ":"aR9PQNc4zsBHkcMkizZ ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"aR9PQNah9TzykH16CLF ",
+                   "levelNames_i18n ":[
+                      "Document Type ",
+                      "Document Sub-Type "
+                   ],
+                   "levelNames ":[
+                      "Document Type ",
+                      "Document Sub-Type "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Document Type ",
+                   "id ":"aR9PQNah9TzykH16CLF ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQNah9TzykH16CLF ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":4,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Type ",
+                "fieldName ":"Document Type ",
+                "fieldId ":"R9PQONG1wV06QXxFIq "
+             },            
+             {   "definitionName ":"Document Tags ",
+                "levelNames ":[
+                   "Document Tags "
+                ],
+                "folder ":false,
+                "dynamicValues ":true,
+                "categoryDefinition ":{
+                   "value ":"aR9PQNWB0s70lRWNCMg ",
+                   "levelNames_i18n ":[
+                      "Document Tags "
+                   ],
+                   "levelNames ":[
+                      "Document Tags "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":true,
+                   "name ":"Document Tags ",
+                   "id ":"aR9PQNWB0s70lRWNCMg ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQNWB0s70lRWNCMg ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":7,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Tags ",
+                "fieldName ":"Document Tags ",
+                "fieldId ":"R9PQObAyW14fiXekpw "
+             }
+          ],
+          "fields ":[
+             {
+                "values ":[
+                   "(0215789068, 0215781545, 0215786247, 0216195711, 0030248033, 0215781578) "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":5,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"STRING ",
+                "fieldName_i18n ":"Donor SUID ",
+                "fieldName ":"Donor SUID ",
+                "fieldId ":"R9PQOStt7RSgiYRLUd "
+             },
+             {
+                "values ":[
+                   "1548748800000 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":6,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"DATE ",
+                "fieldName_i18n ":"Document Date ",
+                "fieldName ":"Document Date ",
+                "fieldId ":"R9PQOVFAioWNaYzL8t "
+             },
+             {
+                "values ":[
+                   "demo comment 06 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":8,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"TEXT ",
+                "fieldName_i18n ":"Comments ",
+                "fieldName ":"Comments ",
+                "fieldId ":"R9PQPjl0iKeAG2J9Nc "
+             }, 
+             {
+                "values ":[
+                   "true "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":15,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"BOOLEAN ",
+                "fieldName_i18n ":"PHI Flag ",
+                "fieldName ":"PHI Flag ",
+                "fieldId ":"RFWDmw0000000jKpKG "
+             },
+             {
+                "values ":[
+                   "true "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":16,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"BOOLEAN ",
+                "fieldName_i18n ":"Confidential Flag ",
+                "fieldName ":"Confidential Flag ",
+                "fieldId ":"RFWDout000001GEP55 "
+             },
+             {
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":17,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":true,
+                "type ":"STRING ",
+                "fieldName_i18n ":"Uploaded By ",
+                "fieldName ":"Uploaded By ",
+                "fieldId ":"RFzzNLJx3Rzb1tanyc "
+             }
+          ]
+       },
+       {
+          "attachments ":[
+             {
+                "size ":"6297 ",
+                "iconLink ":"",
+                "link ":" ",
+                "mimeType ":"application/vnd.ms-excel ",
+                "name ":"BGU_TEMPLATE.csv ",
+                "fileId ":"14kFup_BrhsqUf1TY9bSt3ihKFPzLf5yY ",
+                "kind ":"aodocs#attachment "
+             }
+          ],
+          "categories ":[
+             {
+                "definitionName ":"Folder ",
+                "levelNames ":[
+                   "Folder "
+                ],
+                "folder ":true,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"1Y2J4pM390VbJ-t9h3OtPbWsPUMNg_tqS ",
+                         "leaf ":false,
+                         "leafInNotOutdatedTree ":false,
+                         "outdated ":false,
+                         "shortName ":"Gift ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Gift ",
+                         "name ":"Gift ",
+                         "id ":"1Y2J4pM390VbJ-t9h3OtPbWsPUMNg_tqS ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"FOLDER_CATEGORY ",
+                   "levelNames ":[
+                      "Folder "
+                   ],
+                   "tags ":false,
+                   "folder ":true,
+                   "dynamicValues ":false,
+                   "name ":"Folder ",
+                   "id ":"FOLDER_CATEGORY ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"FOLDER_CATEGORY ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":1,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Folder ",
+                "fieldName ":"Folder ",
+                "fieldId ":"R9PQODu0Mq75svlvnm "
+             },
+             {
+                "definitionName ":"Source ",
+                "levelNames ":[
+                   "Source "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"aR9PQOmyvuXpyeAF3PB ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":"Internal ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Internal ",
+                         "name ":"Internal ",
+                         "id ":"aR9PQOmyvuXpyeAF3PB ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"aR9PQOkGx3z0jvHcBpk ",
+                   "levelNames_i18n ":[
+                      "Source "
+                   ],
+                   "levelNames ":[
+                      "Source "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Source ",
+                   "id ":"aR9PQOkGx3z0jvHcBpk ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQOkGx3z0jvHcBpk ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":2,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Source ",
+                "fieldName ":"Source ",
+                "fieldId ":"R9PQOGDvA23mbS5e2Y "
+             },
+             {
+                "definitionName ":"Document Category ",
+                "levelNames ":[
+                   "Document Category "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"aR9PQOh98DmcWAwEtkK ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":" ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Gift ",
+                         "name ":"Gift ",
+                         "id ":"aR9PQOh98DmcWAwEtkK ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"aR9PQOgyxbVTiMaJML0 ",
+                   "levelNames_i18n ":[
+                      "Document Category "
+                   ],
+                   "levelNames ":[
+                      "Document Category "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Document Category ",
+                   "id ":"aR9PQOgyxbVTiMaJML0 ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQOgyxbVTiMaJML0 ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":3,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Category ",
+                "fieldName ":"Document Category ",
+                "fieldId ":"R9PQOJvyFooD9y9R23 "
+             },
+             {
+                "definitionName ":"Document Type ",
+                "levelNames ":[
+                   "Document Type ",
+                   "Document Sub-Type "
+                ],
+                "folder ":false,
+                "dynamicValues ":false,
+                "values ":[
+                   [
+                      {
+                         "value ":"RAnr8qH1CqjiPcNWuO ",
+                         "leaf ":true,
+                         "leafInNotOutdatedTree ":true,
+                         "outdated ":false,
+                         "shortName ":"Gift Documentation ",
+                         "parentId ":"0 ",
+                         "name_i18n ":"Gift Documentation ",
+                         "name ":"Gift Documentation ",
+                         "id ":"RAnr8qH1CqjiPcNWuO ",
+                         "kind ":"aodocs#categoryValue "
+                      }
+                   ]
+                ],
+                "categoryDefinition ":{
+                   "value ":"aR9PQNah9TzykH16CLF ",
+                   "levelNames_i18n ":[
+                      "Document Type ",
+                      "Document Sub-Type "
+                   ],
+                   "levelNames ":[
+                      "Document Type ",
+                      "Document Sub-Type "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":false,
+                   "name ":"Document Type ",
+                   "id ":"aR9PQNah9TzykH16CLF ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQNah9TzykH16CLF ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":4,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Type ",
+                "fieldName ":"Document Type ",
+                "fieldId ":"R9PQONG1wV06QXxFIq "
+             },
+             {
+                "definitionName ":"Document Tags ",
+                "levelNames ":[
+                   "Document Tags "
+                ],
+                "folder ":false,
+                "dynamicValues ":true,
+                "categoryDefinition ":{
+                   "value ":"aR9PQNWB0s70lRWNCMg ",
+                   "levelNames_i18n ":[
+                      "Document Tags "
+                   ],
+                   "levelNames ":[
+                      "Document Tags "
+                   ],
+                   "tags ":false,
+                   "folder ":false,
+                   "dynamicValues ":true,
+                   "name ":"Document Tags ",
+                   "id ":"aR9PQNWB0s70lRWNCMg ",
+                   "libraryId ":"R9PQFmt2jVpZvr8jxf ",
+                   "kind ":"aodocs#categoryDefinition "
+                },
+                "definitionId ":"aR9PQNWB0s70lRWNCMg ",
+                "kind ":"aodocs#categoryvalue ",
+                "editable ":true,
+                "rank ":7,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"CATEGORY ",
+                "fieldName_i18n ":"Document Tags ",
+                "fieldName ":"Document Tags ",
+                "fieldId ":"R9PQObAyW14fiXekpw "
+             }
+          ],
+          "fields ":[
+             {
+                "values ":[
+                   "0215781321 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":5,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":true,
+                "readOnly ":false,
+                "type ":"STRING ",
+                "fieldName_i18n ":"Donor SUID ",
+                "fieldName ":"Donor SUID ",
+                "fieldId ":"R9PQOStt7RSgiYRLUd "
+             },
+             {
+                "values ":[
+                   "1548028800000 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":6,
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"DATE ",
+                "fieldName_i18n ":"Document Date ",
+                "fieldName ":"Document Date ",
+                "fieldId ":"R9PQOVFAioWNaYzL8t "
+             },
+             {
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":8,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"TEXT ",
+                "fieldName_i18n ":"Comments ",
+                "fieldName ":"Comments ",
+                "fieldId ":"R9PQPjl0iKeAG2J9Nc "
+             },
+             {
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":9,
+                "placeholderText ":"Please enter a numerical value here ",
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"INTEGER ",
+                "fieldName_i18n ":"Page Count ",
+                "fieldName ":"Page Count ",
+                "fieldId ":"R9PQPmI0kpmplO9IpF "
+             },
+             {
+                "values ":[
+                   "350 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "validation ":{
+                   "errorMessage ":"Enter a value &gt; 1. ",
+                   "lowerLimitInclusive ":false,
+                   "lowerLimit ":1.0,
+                   "numericMode ":"GREATER_THAN ",
+                   "kind ":"aodocs#fieldValidation "
+                },
+                "rank ":10,
+                "placeholderText ":"Please enter a numerical value here ",
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "description_i18n ":"Needs to be greater than 100 ",
+                "description ":"Needs to be greater than 100 ",
+                "type ":"INTEGER ",
+                "fieldName_i18n ":"Document Number ",
+                "fieldName ":"Document Number ",
+                "fieldId ":"R9PQPopuyfBVwAsbcm "
+             },
+             {
+                "values ":[
+                   "8700033 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":11,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":true,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"STRING ",
+                "fieldName_i18n ":"Source Transaction Number ",
+                "fieldName ":"Source Transaction Number ",
+                "fieldId ":"RAjdkpY9d6bJUfyB4P "
+             },
+             {
+                "values ":[
+                   "2500000599 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":12,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"STRING ",
+                "fieldName_i18n ":"Source Receipt Number ",
+                "fieldName ":"Source Receipt Number ",
+                "fieldId ":"RAjdmsn000001bfwxF "
+             },
+             {
+                "values ":[
+                   "HAHUD "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":13,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "description_i18n ":"Award Number ",
+                "description ":"Award Number ",
+                "type ":"STRING ",
+                "fieldName_i18n ":"Fund ",
+                "fieldName ":"Fund ",
+                "fieldId ":"RFpZgdi1CrhCE2kNnh "
+             },
+             {
+                "values ":[
+                   "178148 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":14,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"STRING ",
+                "fieldName_i18n ":"GT Number ",
+                "fieldName ":"GT Number ",
+                "fieldId ":"RFpZkD4000000MxEMr "
+             },
+             {
+                "values ":[
+                   "false "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":15,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"BOOLEAN ",
+                "fieldName_i18n ":"PHI Flag ",
+                "fieldName ":"PHI Flag ",
+                "fieldId ":"RFWDmw0000000jKpKG "
+             },
+             {
+                "values ":[
+                   "false "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":16,
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":false,
+                "type ":"BOOLEAN ",
+                "fieldName_i18n ":"Confidential Flag ",
+                "fieldName ":"Confidential Flag ",
+                "fieldId ":"RFWDout000001GEP55 "
+             },
+             {
+                "values ":[
+                   "amar2 "
+                ],
+                "kind ":"aodocs#fieldvalue ",
+                "editable ":true,
+                "rank ":17,
+                "placeholderText ":"Please enter text here ",
+                "hidden ":false,
+                "mandatory ":false,
+                "multiple ":false,
+                "readOnly ":true,
+                "type ":"STRING ",
+                "fieldName_i18n ":"Uploaded By ",
+                "fieldName ":"Uploaded By ",
+                "fieldId ":"RFzzNLJx3Rzb1tanyc "
+             }
+          ]       
+       }
+    ],
+    "kind ":"aodocs#searchResult "
+ }

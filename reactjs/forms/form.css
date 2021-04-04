@@ -1,0 +1,11 @@
+.mainDiv {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+}
+
+.inputBox {
+  padding: 10px;
+  border-radius: 8px;
+  border-color: blue;
+}

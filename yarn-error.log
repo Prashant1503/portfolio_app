@@ -1,0 +1,41 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  "C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\pintu\AppData\Roaming\npm";C:\Users\pintu\AppData\Local\Android\Sdk\platform-tools;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\pintu\AppData\Local\Android\Sdk\platform-tools;C:\Users\pintu\AppData\Local\Android\Sdk\tools;C:\Users\pintu\AppData\Local\Android\Sdk\tools\bin;C:\Users\pintu\AppData\Local\Android\Sdk\platform-tools;C:\Users\pintu\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Users\pintu\AppData\Local\python2\scripts;C:\Users\pintu\AppData\Local\python2;C:\Users\pintu\AppData\Local\python2\scripts;C:\Users\pintu\AppData\Local\python2;C:\Users\pintu\Downloads\flutter_windows_1.17.5-stable\flutter\bin;C:\Users\pintu\AppData\Local\Android\Sdk;C:\flutter_windows_1.20.1-stable\flutter\bin;%IntelliJ IDEA Community Edition%;C:\Users\pintu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\Users\pintu\AppData\Roaming\npm;C:\Users\pintu\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  12.18.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:137009:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:866:16)
+      at ReadStream.onkeypress (readline.js:205:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1133:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:295:12)
+
+npm manifest: 
+  {
+    "name": "reactJs",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

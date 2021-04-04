@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head >
+    <title>Task</title>
+    <h1>Registeration form</h1>
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="task2.js"></script>
+</head>
+<body>
+<div id="myform">
+
+<table>
+      <!-- name input  -->
+    <tr>
+        <td>Name:</td>
+        <td><input type="text" id="name" placeholder="Enter name"></td>
+    </tr><br/>
+
+    <!-- 2nd row for age -->
+     <tr>
+        <td>Age:</td>
+        <td><input type="numeric" id="age" placeholder="Enter age" ></td>
+    </tr>
+
+         <!-- gender input  -->
+
+         <tr>
+            <p>Select Gender</p>
+            
+            <div>
+                 <!-- radio button -->
+                 <input type="radio" id="genderm" name="gender" value="male"  />
+                 <label for="genderm">Male</label>
+                 <input type="radio" id="genderf" name="gender" value="female" />
+                 <label for="genderf">Female</label>
+               
+            </div>
+           
+            </td>
+       </tr>  
+    <!-- 3rd row for Address -->
+    <tr>
+        <td>Address:</td>
+        <td><input type="text" id="Address" placeholder="Enter Address">
+        </td>
+    </tr>
+    
+    
+</table>
+<!-- button -->
+    
+<button onclick="addRowData()">Submit</button>
+</div>
+
+<div id="mydata">
+    <table id="myTableData"  border="1px" cellpadding="10">
+            <tr id="tr1"> 
+                <td><b>ID</b></td>
+                <td><b>Name</b></td>
+                <td><b>Age</b></td> 
+                <td><b>Address</b>  </td>   
+                <td><b>Gender</b></td>
+                 <td><b>Action</b></td>
+            </tr>
+        </table>
+        &nbsp;
+         
+</div>
+</body>
+
+
+</html>
+
